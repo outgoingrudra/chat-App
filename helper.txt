@@ -1,3 +1,7 @@
+
+cd .. 
 git add .
 git commit -m " Inserted "
 git push -u origin main
+cd backend
+
