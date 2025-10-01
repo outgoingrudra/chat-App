@@ -5,3 +5,4 @@ git commit -m " Inserted "
 git push -u origin main
 cd backend
 
+npm i express@4.21.2 mongoose@8.10.1 jsonwebtoken@9.0.2 bcryptjs@2.4.3
